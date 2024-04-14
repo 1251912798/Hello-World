@@ -8,6 +8,10 @@ const linux = {
   r1: "linux上的提交",
 };
 
+<<<<<<< HEAD
 
 // 这是test分支创建的修改
 console.log(linux.r1);
+=======
+// 分支上的添加
+>>>>>>> test
