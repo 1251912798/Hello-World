@@ -3,4 +3,5 @@
 
 一个简单的项目
 Git的基本使用
-Linux支持
+使用了windows系统、Linux系统
+
