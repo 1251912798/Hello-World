@@ -7,3 +7,7 @@ console.log(wind.r1);
 const linux = {
   r1: "linux上的提交",
 };
+
+
+// 这是test分支创建的修改
+console.log(linux.r1);
